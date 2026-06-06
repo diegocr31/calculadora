@@ -1,3 +1,3 @@
-function saludar() {
-    alert("Hola Diego");
+function multiplicar(a, b) {
+    return a * b;
 }
